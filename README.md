@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=django,python,postgresql" />
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
 
 #### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
