@@ -1,6 +1,8 @@
 <!-- GitHub Profile README for Sani Jain -->
 
-<h1 align="center">Hi 👋, I'm Sani Jain</h1>
+<h1 align="center" style="font-size: 3.5em; font-weight: 900; color: #00f700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 3px; text-shadow: 2px 2px 8px rgba(0, 247, 0, 0.7);">
+  Hi 👋, I'm <span style="color: #ffffff;">Sani Jain</span>
+</h1>
 <h3 align="center">Fullstack Developer | Django, React.js, React Native</h3>
 <!-- <p align="center">
   <img 
