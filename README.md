@@ -1,9 +1,9 @@
-![InShot_20230421_123220503](https://github.com/user-attachments/assets/febadd7d-1d0a-4d73-902f-b41040ee2bc3)<!-- GitHub Profile README for Sani Jain -->
+<!-- GitHub Profile README for Sani Jain -->
 
 <h1 align="center">Hi 👋, I'm Sani Jain</h1>
 <h3 align="center">Fullstack Developer | Django, React.js, React Native</h3>
 <p align="center">
-  <img src=https://ibb.co/xKkC2mdp" alt="Sani Jain" width="150" style="border-radius: 50%;" />
+  <img src="![InShot_20230421_123220503](https://github.com/user-attachments/assets/febadd7d-1d0a-4d73-902f-b41040ee2bc3)" alt="Sani Jain" width="150" style="border-radius: 50%;" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Fullstack+Web+%26+Mobile+Developer;Backend+with+Django;Frontend+with+React.js+and+React+Native;Building+Web+and+Mobile+Apps+that+Scale" alt="Typing SVG" />
