@@ -4,7 +4,7 @@
 <h3 align="center">Fullstack Developer | Django, React.js, React Native</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer;Backend+with+Django+%7C+Frontend+with+React.js+%26+React+Native;Building+Web+and+Mobile+Apps+that+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=400&lines=Fullstack+Web+%26+Mobile+Developer;Backend+with+Django+%7C+Frontend+with+React.js+%26+React+Native;Building+Web+and+Mobile+Apps+that+Scale" alt="Typing SVG" />
 </p>
 
 ---
