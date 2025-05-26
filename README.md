@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Sani Jain</h1>
 <h3 align="center">Fullstack Developer | Django, React.js, React Native</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/febadd7d-1d0a-4d73-902f-b41040ee2bc3" alt="Sani Jain" width="300" style="border-radius: 50%;" />
+  <img 
+    src="https://github.com/user-attachments/assets/febadd7d-1d0a-4d73-902f-b41040ee2bc3" 
+    alt="Sani Jain" 
+    width="300" 
+    style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 4px solid #00f700; max-width: 100%; height: auto;"
+  />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Fullstack+Web+%26+Mobile+Developer;Backend+with+Django;Frontend+with+React.js+and+React+Native;Building+Web+and+Mobile+Apps+that+Scale" alt="Typing SVG" />
