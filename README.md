@@ -6,7 +6,7 @@
   <img 
     src="https://github.com/user-attachments/assets/febadd7d-1d0a-4d73-902f-b41040ee2bc3" 
     alt="Sani Jain" 
-    width="280"
+    width="400"
     style="
       border-radius: 50%; 
       padding: 6px; 
