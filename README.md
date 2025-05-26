@@ -6,8 +6,20 @@
   <img 
     src="https://github.com/user-attachments/assets/febadd7d-1d0a-4d73-902f-b41040ee2bc3" 
     alt="Sani Jain" 
-    width="300" 
-    style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 4px solid #00f700; max-width: 100%; height: auto;"
+    width="280"
+    style="
+      border-radius: 50%; 
+      padding: 6px; 
+      background: linear-gradient(45deg, #00f700, #00ffd5, #0077ff, #00f700);
+      box-shadow: 0 0 15px 3px rgba(0, 247, 0, 0.7);
+      border: 4px solid transparent;
+      transition: transform 0.3s ease;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%;
+      height: auto;
+    "
   />
 </p>
 <p align="center">
